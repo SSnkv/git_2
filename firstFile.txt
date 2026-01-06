@@ -1,7 +1,7 @@
-1
-2
-3
-4
+1 -> line modified by git_1
+2 -> line modified by git_1
+3 -> another line modified by git_1
+4 -> another line modified by git_1
 5
 6
 7
