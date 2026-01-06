@@ -1,5 +1,5 @@
-1
-2
+1 -> line modified by git_1
+2 -> line modified by git_1
 3
 4
 5
